@@ -1,0 +1,60 @@
+Nos últimos anos, a Indústria 5.0 vem sendo discutida e apontada como uma espécie de “retorno ao humano” para os meios de produção. Entretanto, não faz muito tempo que a Indústria 4.0 ganhou destaque, o que faz com que muitas pessoas questionem se realmente já existe outra transformação industrial em curso.
+Sob certas perspectivas, a resposta para essa pergunta é um enfático “sim”. Enquanto a Indústria 4.0 se tornou possível graças às tecnologias digitais e automatizou cada vez mais os seus processos, a Indústria 5.0 visa reunir a revolução dos meios de produção digitalizados com o toque humano, que muitos estudiosos acreditam ter se perdido em meio às evoluções tecnológicas.
+Assim, é possível afirmar que a Indústria 5.0 não surge como um meio de substituição das práticas vigentes, mas sim como uma evolução natural. Enquanto a 4.0 se propôs a revolucionar através da conectividade e do foco na execução de processos, a 5.0 soma a essas características as habilidades humanas de criação e cognição, que podem agregar bastante quando aliadas à tecnologia.
+Portanto, mais detalhes a respeito deste meio de produção, bem como as suas principais características e impactos serão discutidos ao longo do artigo. Para saber mais a respeito, continue a leitura.
+
+A Indústria 5.0 existe?
+É possível afirmar que a Indústria 5.0 é uma evolução em curso. Ou seja, ela está acontecendo agora e ainda não está totalmente consolidada. Dessa forma, a sua criação acontece em paralelo com a ascensão da Indústria 4.0, propondo a integração entre humanos e máquinas.
+Portanto, diante das mudanças propostas pela Indústria 5.0, os sistemas inteligentes passarão a contar com um toque humanizado e mais pessoal. O objetivo é oferecer maior precisão à automação a partir da capacidade cognitiva e crítica dos seres humanos.
+Dessa forma, é possível descrever o atual momento da produção industrial como uma reumanização dos processos, mas sem deixar de lado os benefícios trazidos pela tecnologia. Os insights trazidos por ela, quando aliados à capacidade criativa do humano, têm tudo para beneficiar as indústrias e melhorar as experiências dos consumidores.
+
+O que é a Indústria 5.0?
+Devido ao seu foco no resgate das características humanas da produção, a Indústria 5.0 pode ser descrita como uma evolução natural da Indústria 4.0, que ainda é dominante no contexto empresarial da atualidade.
+Assim, a “nova era” surge a partir do desenvolvimento de setores como as Tecnologias da Informação e Comunicação (ICT), da Inteligência Artificial (IA) e da robótica. Quando combinadas, elas estão gradualmente levando à consolidação dos Cyber Physical Systems (CPS) e aos dispositivos poderosos da Internet Of Things (IoT).
+Então, a Indústria 5.0 pode ser descrita como a união entre todas essas tecnologias e as habilidades humanas, que são capazes de agregar valor à produção na medida em que atendem às necessidades especificas dos clientes e atuam no sentido de garantir a personalização dos produtos, um dos desafios da Indústria 4.0.
+Portanto, é seguro afirmar que a Indústria 5.0 está se consolidando a partir da percepção de que, sozinha, a tecnologia não funciona. Isso foi sendo percebido gradualmente porque, embora a automação seja uma realidade para grande parte dos processos, é impossível fazer com que outros sejam realizados por máquinas.
+Logo, a “nova era” industrial visa apostar mais na capacidade humana de otimização para, assim, tornar os produtos cada vez mais hiper-customizados. Toda essa jornada depende de dois passos importantes: a interconexão e o suporte cognitivo.
+
+Interconexão
+A colaboração entre humano e máquina é fundamental para a Indústria 5.0. Devido a isso, os robôs industriais, bem como os cobots, serão cruciais nesse processo. É através deles que a capacidade de customização será elevada, podendo suprir a defasagem que existe na área de design atualmente e que força as empresas a promoverem serviços massificados.
+Entretanto, apesar da importância dos robôs, eles não serão a linha de frente da revolução proposta pela Indústria 5.0, mas sim a inteligência humana, que terá a oportunidade de se colocar à frente dos processos de produção e mostrar mais do que nunca o seu valor inestimável.
+
+Suporte Cognitivo
+Através do suporte cognitivo oferecido pelos humanos às máquinas, será possível tornar os processos automatizados cada vez mais capacitados. Portanto, a Indústria 5.0 também vai atuar no sentido de eliminar a ameaça que a automação apresentava para os postos de trabalho.
+Isso acontece uma vez que a atuação profissional acontecerá de forma integrada à dos robôs. Esse tipo de pensamento foi possibilitado uma vez que as empresas acabaram percebendo que a tecnologia sozinha não é o suficiente para conseguir cumprir eficientemente os seus processos, especialmente no âmbito da criação.
+Então, embora os dados e as análises promovidas pela Indústria 4.0 sejam ricos e interessantes em muitos sentidos, é preciso equilibrar para conseguir o casamento perfeito entre eficiência e produtividade no setor empresarial.
+
+Qual o objetivo da Indústria 5.0?
+Diante dos fatos destacados, é possível afirmar que os objetivos da Indústria 5.0 estão ligados à criação de valores que vão além dos resultados financeiros. Portanto, a transformação que ela visa promover conecta aspectos como a qualidade de vida e a sustentabilidade, pautas cada vez mais discutidas na modernidade.
+Além disso, os pontos ressaltados não são pensados somente dentro do contexto industrial. A partir das mudanças propostas pelos novos meios de produção, a sociedade ganhou um peso muito maior nos processos de fabricação, de forma que os consumidores e a comunidade ao redor de uma determinada indústria estão no centro das questões.
+Portanto, os seguintes aspectos serão aprimorados a partir da consolidação da Indústria 5.0:
+Inclusão: A inclusão está ligada à contratação de funcionários que acrescentem diversidade aos times, possibilitando que medidas de impacto em vários setores sociais sejam pensadas;
+Sustentabilidade: a preocupação com o meio ambiente se tornou uma prioridade para as indústrias, que têm repensado desde a forma de descartar os seus resíduos aos materiais usados na confecção dos seus produtos;
+Qualidade de vida: ao oferecer inclusão e sustentabilidade para as comunidades ao redor das indústrias, bem como para os funcionários, elas conseguem impactar diretamente na qualidade de vida.
+
+Quais são as tecnologias e os impactos da Indústria 5.0?
+O bom funcionamento da Indústria 5.0 depende de uma série de fatores para atingir o seu potencial tecnológico e cognitivo. Algumas ainda estão em construção e têm como foco o desenvolvimento de estratégias e operações.
+Edge Computing;
+Biotecnologia;
+Nanotecnologia;
+Dark Analytics;
+Manufatura aditiva;
+Machine Learning;
+Computação quântica;
+Internet of Things – IoT;
+Cobots – Robôs colaborativos;
+Inteligência artificial – IA;
+Robótica avançada.
+
+Como implementar a Indústria 5.0?
+Como a Indústria 5.0 ainda é algo que está em desenvolvimento, a sua implementação requer paciência. Além disso, trata-se de uma mudança inédita nos processos empresariais, visto que em nenhum outro momento histórico tecnologia e seres humanos foram integrados na totalidade.
+Logo, existem alguns aspectos específicos que precisam ser seguidos:
+Adoção de novas tecnologias: sem as novas tecnologias, a Indústria 5.0 não consegue funcionar de maneira eficiente. Portanto, elas precisam ser implementadas nas empresas. Mas, o processo tende a ser lento e a exigir esforço e investimentos;
+Necessidade de investimentos: ainda sobre os investimentos, é importante destacar que eles não serão baratos. Por exemplo, um cobot, algo importante para a implementação da Indústria 5.0, não possui um valor acessível. Portanto, fazer as melhoras necessárias na linha de produção é algo em longo prazo;
+Força de trabalho: a adequação à Indústria 5.0 pressupõe qualificação por parte dos funcionários, que precisarão lidar, em muitos casos, com tecnologias distantes da sua atual realidade de trabalho. Além disso, precisarão a aprender como cooperar com os robôs. Portanto, a capacitação também precisa ser um caminho percorrido antes da adesão à revolução industrial em curso.
+Além disso, outro aspecto que se mostra válido destacar é que muitas empresas, especialmente as de pequeno e médio porte, ainda estão encarando os desafios da implementação da Indústria 4.0 no seu cotidiano. Isso acontece especialmente devido à necessidade de investimentos e capacitação dos funcionários.
+Portanto, migrar para um cenário ainda mais desafiador não é uma opção viável para o momento. Desse modo, a implementação da Indústria 5.0 tende a acontecer de forma lenta nos primeiros momentos e é possível que somente as grandes empresas passem por essa adaptação de início.
+Mas é possível aderir algumas tecnologias na rotina empresarial desde já como forma de começar a fazer parte desse futuro e da Indústria 5.0. Então, optar pela digitalização de processos ainda feitos de forma manual ou híbrida pode ser um primeiro passo interessante.
+Outro ponto que pode favorecer a adaptação é a adoção de um Eterprise Resourse Planing (ERP), que consiste em um sistema de gestão integrado e confiável para gerenciar os dados de uma empresa. Como eles são parte importante das revoluções propostas pela Indústria 4.0, essa seria uma forma de começar a trilhar o
+caminho rumo ao futuro.
+Isso acontece uma vez que o ERP permite a realização de diagnósticos profundos sobre quais medidas devem ser tomadas para a redução de custos e o aumento de produtividade em uma empresa. Então, a partir disso seria possível fazer ajustes e viabilizar os investimentos necessários em tecnologia para futuramente implementar a Indústria 5.0.
